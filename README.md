@@ -1,6 +1,4 @@
-# AR Pool
-
-The code I wrote for the university module '*Applied Game Technologies*'
+# Procedural Tile map maker - Markov Chains
+The code I wrote for the university module '*Procedural Methods*'
 More information on this can be found [**here**](http://google.com)
 
-Note: Most of the project files are not present as they are from a framework I do not own.
